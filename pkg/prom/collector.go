@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	log "github.com/amoghe/distillog"
-	"github.com/mjavier2k/solidfire-exporter/pkg/solidfire"
+	"github.com/ixooman/solidfire-exporter/pkg/solidfire"
 
 	"github.com/prometheus/client_golang/prometheus"
 )

@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mjavier2k/solidfire-exporter/pkg/solidfire"
+	"github.com/ixooman/solidfire-exporter/pkg/solidfire"
 	"gopkg.in/h2non/gock.v1"
 )
 

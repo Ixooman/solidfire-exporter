@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	log "github.com/amoghe/distillog"
-	"github.com/mjavier2k/solidfire-exporter/pkg/prom"
-	"github.com/mjavier2k/solidfire-exporter/pkg/solidfire"
+	"github.com/ixooman/solidfire-exporter/pkg/prom"
+	"github.com/ixooman/solidfire-exporter/pkg/solidfire"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	flag "github.com/spf13/pflag"
