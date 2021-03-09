@@ -1,4 +1,4 @@
-module github.com/mjavier2k/solidfire-exporter
+module github.com/ixooman/solidfire-exporter
 
 go 1.13
 
